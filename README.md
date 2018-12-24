@@ -1,8 +1,11 @@
-# node810-terraform-awscli-docker
+# node-terraform-awscli-docker
 
 Docker image with a stack to develop with AWS lambdas
 
-- Node 8.10
-- AWS-CLI
+- node (see version)
+- aws cli
 - Terraform
 - github
+- bash
+- GNU parallel
+- openssh
