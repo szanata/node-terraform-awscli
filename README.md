@@ -1,6 +1,6 @@
 # node-terraform-awscli-docker
 
-Docker image with a stack to develop with AWS lambdas
+Alpine linux with a stack to develop with AWS lambdas
 
 - node (see version)
 - aws cli
@@ -8,4 +8,5 @@ Docker image with a stack to develop with AWS lambdas
 - github
 - bash
 - GNU parallel
-- openssh
+- openssh/openssl
+- Python
