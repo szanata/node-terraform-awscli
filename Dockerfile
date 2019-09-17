@@ -1,10 +1,15 @@
 FROM node:10.16-alpine
 
+RUN apk add --update
+
 # Basic tools
-RUN apk --update add \
+RUN apk add \
   git \
   openssh \
-  openssl
+  make \
+  musl-dev \
+  openssl \
+  bash
 
 # Python
 RUN apk --update add \
