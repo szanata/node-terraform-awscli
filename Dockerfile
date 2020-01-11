@@ -1,4 +1,4 @@
-FROM node:10.16-alpine
+FROM node:12.14.1-alpine
 
 RUN apk add --update
 
