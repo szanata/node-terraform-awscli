@@ -4,11 +4,11 @@ Alpine linux with a stack to develop with AWS lambdas
 
 ### Docker hub
 
-- [node8.10](szanata/node-terraform-awscli:node8.10)
-- [node10.16](szanata/node-terraform-awscli:node10.16)
-- [node12.14](szanata/node-terraform-awscli:node12.14)
-- [node12-tf12](szanata/node-terraform-awscli:node12-tf12)
-- [node12-tf12-aws2](szanata/node-terraform-awscli:node12-tf12-aws2)
+- [node8.10](https://hub.docker.com/r/szanata/node-terraform-awscli:node8.10)
+- [node10.16](https://hub.docker.com/r/szanata/node-terraform-awscli:node10.16)
+- [node12.14](https://hub.docker.com/r/szanata/node-terraform-awscli:node12.14)
+- [node12-tf12](https://hub.docker.com/r/szanata/node-terraform-awscli:node12-tf12)
+- [node12-tf12-aws2](https://hub.docker.com/r/szanata/node-terraform-awscli:node12-tf12-aws2)
 
 ### Contents
 
